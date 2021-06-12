@@ -8,6 +8,20 @@ git is a system for version control of software. what that means is that it keep
 
 There are plenty of guides out there for basic git usage, but I thought I would put together some relevant points for us here.
 
+# Table of Contents
+
+- [Glossary](#git-jargon-and-definitions)
+- [Installating git](#installing-git)
+- [Basic git usage](#basic-git-usage)
+    - [Cloning a repository](#cloning-a-repository)
+    - [Downloading a release](#downloading-a-release)
+    - [Creating your own repository](#creating-your-own-repository)
+        - [Creating the repository on github](#creating-the-repository-on-github)
+        - [Initializing the repository locally](#initializing-the-repository-locally)
+    - [Pushing changes to your repository](#pushing-changes-to-your-repository)
+
+---
+
 ## git jargon and definitions
 
 ---
@@ -91,6 +105,8 @@ I usually provide a name and a description and leave everything else as is.
 Once you're ready, click the green **Create repository** button at the bottom of the page. This will take you to your repository page. However, there are no files in your repo yet, and you still need to set it up on your local machine. Luckily, github provides some easy instructions on this page for how to do so:
 
 ![github repository setup page](img/repo-setup.png)
+
+### Initializing the repository locally
 
 There are several options for ways to set this up, but I usually stick with the **..or create a new repository on the command line** instructions. The commands are provided on the screen, but there are a couple of things we may want to do first. Switch to your command line interface and navigate to the location where you want to create your repository:
 
