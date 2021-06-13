@@ -8,6 +8,13 @@ One of the best aspects of git and github is that anyone can contribute to any r
 
 Note that this how-to is built largely from [here](https://kbroman.org/github_tutorial/pages/fork.html), with additional context for our use-cases.
 
+# Table of Contents
+
+- [Forking a repository](#forking-a-repository)
+- [Uploading changes back to your remote fork](#uploading-changes-back-to-your-remote-fork)
+- [Initiating a pull request](#initiating-a-pull-request)
+- [Updating a forked repository](#updating-a-forked-repository)
+
 ---
 
 ## Forking a repository
