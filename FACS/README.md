@@ -7,18 +7,18 @@ Last update: Emily Kopania 15 May 2019
 
 **BEFORE starting sorts:**
 These are reagents than can be prepped, aliquoted, and stored ahead of time so that you can have them ready to go prior to doing several sorts
-1.	Hoechst 33324: suspend in DMSO
-	a.	10mg/mL, flash freeze, thaw overnight, store at 4C
-	b.	Must be Invitrogen Hoechst (the kind that comes as a solid, not liquid)
+1.	Hoechst 33324: suspend in DMSO  
+	a.	10mg/mL, flash freeze, thaw overnight, store at 4C  
+	b.	Must be Invitrogen Hoechst (the kind that comes as a solid, not liquid)  
 	c.	After suspending in DMSO, should be very bright green and clumpy NOT dark green and liquid
-2.	Propidium Iodide (PI): suspend in molecular grade water
-	a.	1mg/mL
+2.	Propidium Iodide (PI): suspend in molecular grade water  
+	a.	1mg/mL  
 	b.	Keep in dark!
-3.	DNase I: comes lyophilized and needs to be hydrated
-	a.	For Qiagen DNase I: peel back plastic thing on lid so that rubber is exposed, use a 1mL syringe and needle to add 550uL molecular-grade water (DNAse and RNAse free)
-	b.	Invert a few times to mix and make sure all enzyme is dissolved, then use syringe to pull liquid out of container it comes in and transfer to clean, labeled epitube (color recommended); aliquots of ~150uL recommended
-	c.	Qiagen DNAse kit comes with instructions for this as well
-	d.	Try to avoid refreezing
+3.	DNase I: comes lyophilized and needs to be hydrated  
+	a.	For Qiagen DNase I: peel back plastic thing on lid so that rubber is exposed, use a 1mL syringe and needle to add 550uL molecular-grade water (DNAse and RNAse free)  
+	b.	Invert a few times to mix and make sure all enzyme is dissolved, then use syringe to pull liquid out of container it comes in and transfer to clean, labeled epitube (color recommended); aliquots of ~150uL recommended  
+	c.	Qiagen DNAse kit comes with instructions for this as well  
+	d.	Try to avoid refreezing  
   
 **BEFORE you get the mouse:**
 1.	Prep enzymes (plan for 20-30min to get these mixed, longer if you’re new at it)
