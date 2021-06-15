@@ -193,10 +193,10 @@ Plan for ~4-5 hrs
 	b.	Mix samples well after adding EtOH  
 5.	Step 1 of the RNeasey protocol is to pipette <=700uL of the sample+EtOH solution into a spin column and centrifuge – THIS NEEDS TO BE REPEATED UNTIL THE WHOLE SAMPLE HAS BEEN ADDED TO THE COLUMN  
     a.	RNeasy tubes can only hold 700uL but the output from sorts+EtOH will be ~5mL for each cell type, so:  
-        i.	Add 700uL of sample to a spin column tube, one tube per sample  
-        ii.	Centrifuge as directed by the RNeasy protocol  
-        iii.	Discard flow-through  
-        iv.	Repeat i-iii with the same spin column until all 5mL of sample have been run through the same column, such that all RNA from one cell type should be in the membrane of one column  
+        1.	Add 700uL of sample to a spin column tube, one tube per sample  
+        2.	Centrifuge as directed by the RNeasy protocol  
+        3.	Discard flow-through  
+        4.	Repeat i-iii with the same spin column until all 5mL of sample have been run through the same column, such that all RNA from one cell type should be in the membrane of one column  
 6.	Follow the rest of the RNeasy protocol from Qiagen RNA extraction kit  
 	a.	Include DNA digestion and optional dry step described in the RNeasy protocol  
 	b.	Do NOT need to do RNA cleanup procedure in part II  
